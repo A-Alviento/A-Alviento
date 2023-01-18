@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian!</h1>
 <h3 align="center">I'm currently majoring in Mathematics and Computer Science</h3>
 
-- 🔭 I’m interested in **AI, machine learning and lately, computer security and cyrptography**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
